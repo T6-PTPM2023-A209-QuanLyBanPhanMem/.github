@@ -4,9 +4,6 @@
 Học phần: Phát triển ứng dụng thông minh
 
 Thành viên:
-- Trần Đức Nhật Nam
-- Lương Duy Minh
-- Nguyễn Quang Trung
 
 | Tên | MSSV | Phân công |
 | ------------- |:-------------:| -----:|
