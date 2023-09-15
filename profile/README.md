@@ -20,3 +20,6 @@ Chức năng
   - Quản lý doanh thu
 Ứng dụng AI:
   - Gợi ý phần mềm theo sở thích người dùng
+
+Phân chia công việc
+
