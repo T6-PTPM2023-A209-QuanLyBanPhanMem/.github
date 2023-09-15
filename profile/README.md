@@ -1,4 +1,4 @@
-## Hi there 👋
+## Giới thiệu Ứng dụng Quản lý bán phần mềm
 
 Ứng dụng Quản lý bán phần mềm
 Học phần: Phát triển ứng dụng thông minh
