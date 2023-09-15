@@ -10,11 +10,11 @@ Thành viên:
 
 Chức năng:
 
-- Ứng dụng Web:
+- Ứng dụng Web - Sử dụng ASP.NET Core:
   + Tạo tài khoản người dùng
   + Lướt xem danh sách phần mềm
   + Thêm vào giỏ hàng và thanh toán
-- Ứng dụng Windows:
+- Ứng dụng Windows - Sử dụng .NET Core:
   + Quản lý danh sách sản phẩm
   + Quản lý tài khoản nhân viên, người dùng
   + Quản lý doanh thu
