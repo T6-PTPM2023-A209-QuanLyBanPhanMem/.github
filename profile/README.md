@@ -8,6 +8,12 @@ Thành viên:
 - Lương Duy Minh
 - Nguyễn Quang Trung
 
+| Tên        | MSSV           | Phân công  |
+| ------------- |:-------------:| -----:|
+| Trần Đức Nhật Nam      | 2001206925 |  |
+| Nguyễn Quang Trung      | 2001206926      |    |
+| Lương Duy Minh | 2001202155      |    |
+
 Chức năng:
 
 - Ứng dụng Web - Sử dụng ASP.NET Core:
