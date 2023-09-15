@@ -8,18 +8,18 @@ Thành viên:
 - Lương Duy Minh
 - Nguyễn Quang Trung
 
-Chức năng
+Chức năng:
 
-Ứng dụng Web:
-  - Tạo tài khoản người dùng
-  - Lướt xem danh sách phần mềm
-  - Thêm vào giỏ hàng và thanh toán
-Ứng dụng Windows:
-  - Quản lý danh sách sản phẩm
-  - Quản lý tài khoản nhân viên, người dùng
-  - Quản lý doanh thu
-Ứng dụng AI:
-  - Gợi ý phần mềm theo sở thích người dùng
+- Ứng dụng Web:
+  + Tạo tài khoản người dùng
+  + Lướt xem danh sách phần mềm
+  + Thêm vào giỏ hàng và thanh toán
+- Ứng dụng Windows:
+  + Quản lý danh sách sản phẩm
+  + Quản lý tài khoản nhân viên, người dùng
+  + Quản lý doanh thu
+- Ứng dụng AI:
+  + Gợi ý phần mềm theo sở thích người dùng
 
 Phân chia công việc
 
