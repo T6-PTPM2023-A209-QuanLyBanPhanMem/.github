@@ -1,27 +1,27 @@
-## Giới thiệu Ứng dụng Quản lý bán phần mềm
+# Giới thiệu 
 
+## Đề tài
 Ứng dụng Quản lý bán phần mềm
-Học phần: Phát triển ứng dụng thông minh
+## Học phần: 
+Phát triển ứng dụng thông minh
 
-Thành viên:
-
+## Thành viên:
 | Tên | MSSV | Phân công |
 | ------------- |:-------------:| -----:|
 | Trần Đức Nhật Nam | 2001206925 |  |
 | Nguyễn Quang Trung | 2001206926 |  |
 | Lương Duy Minh | 2001202155 |  |
 
-Chức năng:
-
-- Ứng dụng Web - Sử dụng ASP.NET Core:
+## Chức năng:
+### Ứng dụng Web - Sử dụng ASP.NET Core:
   + Tạo tài khoản người dùng
   + Lướt xem danh sách phần mềm
   + Thêm vào giỏ hàng và thanh toán
-- Ứng dụng Windows - Sử dụng Winforms .NET Core:
+### Ứng dụng Windows - Sử dụng Winforms .NET Core:
   + Quản lý danh sách sản phẩm
   + Quản lý tài khoản nhân viên, người dùng
   + Quản lý doanh thu
-- Ứng dụng AI:
+### Ứng dụng AI:
   + Gợi ý phần mềm theo sở thích người dùng
 
 
