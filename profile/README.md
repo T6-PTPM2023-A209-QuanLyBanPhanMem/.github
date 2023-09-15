@@ -8,16 +8,22 @@ Phát triển ứng dụng thông minh
 ## Thành viên:
 | Tên | MSSV | Phân công |
 | ------------- |:-------------:| -----:|
-| Trần Đức Nhật Nam | 2001206925 |  |
-| Nguyễn Quang Trung | 2001206926 |  |
-| Lương Duy Minh | 2001202155 |  |
+| Trần Đức Nhật Nam | 2001206925 | Ứng dụng Windows, Web API |
+| Nguyễn Quang Trung | 2001206926 | Ứng dụng web, quản lý server |
+| Lương Duy Minh | 2001202155 | Thiết kế cơ sở dữ liệu |
+
+## Công nghệ: 
+- .NET 6
+- SQL Server
+- Firebase
+- Visual Studio 2022
 
 ## Chức năng:
 ### Ứng dụng Web - Sử dụng ASP.NET Core:
   + Tạo tài khoản người dùng
   + Lướt xem danh sách phần mềm
   + Thêm vào giỏ hàng và thanh toán
-### Ứng dụng Windows - Sử dụng Winforms .NET Core:
+### Ứng dụng Windows - Sử dụng Winforms .NET 6:
   + Quản lý danh sách sản phẩm
   + Quản lý tài khoản nhân viên, người dùng
   + Quản lý doanh thu
