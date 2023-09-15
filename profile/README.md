@@ -8,11 +8,11 @@ Thành viên:
 - Lương Duy Minh
 - Nguyễn Quang Trung
 
-| Tên        | MSSV           | Phân công  |
+| Tên | MSSV | Phân công |
 | ------------- |:-------------:| -----:|
-| Trần Đức Nhật Nam      | 2001206925 |  |
-| Nguyễn Quang Trung      | 2001206926      |    |
-| Lương Duy Minh | 2001202155      |    |
+| Trần Đức Nhật Nam | 2001206925 |  |
+| Nguyễn Quang Trung | 2001206926 |  |
+| Lương Duy Minh | 2001202155 |  |
 
 Chức năng:
 
@@ -20,12 +20,11 @@ Chức năng:
   + Tạo tài khoản người dùng
   + Lướt xem danh sách phần mềm
   + Thêm vào giỏ hàng và thanh toán
-- Ứng dụng Windows - Sử dụng .NET Core:
+- Ứng dụng Windows - Sử dụng Winforms .NET Core:
   + Quản lý danh sách sản phẩm
   + Quản lý tài khoản nhân viên, người dùng
   + Quản lý doanh thu
 - Ứng dụng AI:
   + Gợi ý phần mềm theo sở thích người dùng
 
-Phân chia công việc
 
