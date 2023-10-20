@@ -12,10 +12,11 @@ Thứ 6 tiết 1-5, A209
 | Nguyễn Quang Trung | 2001206926 | Ứng dụng web, quản lý server |
 | Lương Duy Minh | 2001202155 | Thiết kế cơ sở dữ liệu |
 # Tài nguyên
-Website: https://qlbanphanmem.azurewebsites.net/
-Azure SQL database:
-  -  Username: android17x
-  -  Password: Trungthachdau2023
+- Website: https://qlbanphanmem.azurewebsites.net/
+- Azure SQL database:
+  +  Server: android17x.database.windows.net
+  +  Username: android17x
+  +  Password: Trungthachdau2023
 ## Công nghệ
 - .NET 6
 - SQL Server
