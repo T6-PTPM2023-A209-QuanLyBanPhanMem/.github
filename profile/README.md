@@ -18,12 +18,13 @@ Thứ 6 tiết 1-5, A209
   +  Username: android17x
   +  Password: Trungthachdau2023
 ## Công nghệ
-- .NET 7 (Web)
+- ASP.NET Core 7 (Web)
 - .NET Framework 4.8 (App)
 - Azure Database for SQL Server
 - Azure App Services
-- Google Firebase
-- DialogFlow
+- Google Firebase Auth
+- Google Firebase Firestore
+- Google Cloud DialogFlow
 - Visual Studio 2022
 - LinQ to SQL
 - Entity Framework Core
@@ -33,9 +34,13 @@ Thứ 6 tiết 1-5, A209
 - CefSharp
 ## Chức năng
 ### Ứng dụng Web Khách hàng - Sử dụng ASP.NET Core 7 with Entity Framework:
-  + Tạo tài khoản người dùng
+  + Đăng ký tài khoản người dùng
+  + Khôi phục tài khoản người dùng
   + Lướt xem danh sách phần mềm
   + Thêm vào giỏ hàng và thanh toán
+  + Xem chi tiết hóa đơn
+  + Gửi email khi thanh toán thành công
+  + Đổi thông tin người dùng
 ### Ứng dụng Windows Quản trị - Sử dụng WinFormApp .NET Framework 4.8:
   + Quản lý tài khoản quản trị
   + Quản lý nhà phát hàng
